@@ -1,0 +1,11 @@
+{
+  "name": "StreamingUnity",
+  "id": "it.streamingunity",
+  "version": 1,
+  "author": "MioPlugin",
+  "language": "it",
+  "type": "movies",
+  "tvTypes": ["movie", "tvSeries"],
+  "iconUrl": "https://streamingunity.dog/favicon.ico",
+  "baseUrl": "https://streamingunity.dog"
+}
