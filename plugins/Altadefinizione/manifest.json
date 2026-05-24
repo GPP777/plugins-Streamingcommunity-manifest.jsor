@@ -1,0 +1,11 @@
+{
+  "name": "Altadefinizione",
+  "id": "it.altadefinizione",
+  "version": 1,
+  "author": "MioPlugin",
+  "language": "it",
+  "type": "movies",
+  "tvTypes": ["movie"],
+  "iconUrl": "https://altadefinizione-01.forum/favicon.ico",
+  "baseUrl": "https://altadefinizione-01.forum"
+}
