@@ -1,0 +1,10 @@
+{
+  "name": "GPP777",
+  "description": "I miei canali privati per Cloudstream",
+  "manifestVersion": 3,
+  "pluginLists": [
+    {
+      "url": "https://raw.githubusercontent.com/GPP777_plugins/StreamingUnity/manifest.json/master/plugins.json"
+    }
+  ]
+}
